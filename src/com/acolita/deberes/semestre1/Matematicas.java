@@ -12,7 +12,7 @@ public class Matematicas {
     private double Nota;
 
     public Matematicas() {
-        this.Nota = 20;
+        this.Nota = 18;
     }
 
     public double getNota() {
